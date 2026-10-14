@@ -1,0 +1,26 @@
+name: filipino_cuisine_plus
+description: "Filipino Cuisine Plus - a beautiful recipe app for Filipino and international cooking."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^3.3.2
+  go_router: ^17.2.3
+  google_fonts: ^8.1.0
+  shared_preferences: ^2.5.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/recipes.json
+

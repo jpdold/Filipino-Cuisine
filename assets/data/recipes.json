@@ -1,0 +1,1207 @@
+{
+  "version": 1,
+  "recipes": [
+    {
+      "id": "chicken-adobo",
+      "name": "Chicken Adobo",
+      "localName": "Adobong Manok",
+      "cuisine": "filipino",
+      "category": "main",
+      "difficulty": "easy",
+      "emoji": "🍗",
+      "description": "The unofficial national dish of the Philippines. Chicken braised in soy sauce, vinegar, garlic, and black pepper until the sauce turns glossy and deeply savory.",
+      "prepMinutes": 15,
+      "cookMinutes": 45,
+      "servings": 4,
+      "tags": [
+        "classic",
+        "braised",
+        "one-pot",
+        "family favorite"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken thighs",
+          "quantity": "1 kg",
+          "note": "bone-in, skin-on"
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "Cane vinegar",
+          "quantity": "1/2 cup",
+          "note": "or white vinegar"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "1 head",
+          "note": "smashed"
+        },
+        {
+          "name": "Bay leaves",
+          "quantity": "3"
+        },
+        {
+          "name": "Whole black peppercorns",
+          "quantity": "1 tsp"
+        },
+        {
+          "name": "Brown sugar",
+          "quantity": "1 tbsp"
+        },
+        {
+          "name": "Water",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "Cooking oil",
+          "quantity": "2 tbsp"
+        }
+      ],
+      "steps": [
+        "Combine chicken, soy sauce, vinegar, garlic, bay leaves, and peppercorns in a bowl. Marinate for at least 30 minutes.",
+        "Heat oil in a heavy pot. Remove chicken from marinade and sear skin-side down until golden, about 4 minutes per side.",
+        "Pour in the marinade and water. Bring to a boil without stirring, then reduce to a simmer.",
+        "Cover and simmer for 30 minutes, turning the chicken once.",
+        "Uncover, add brown sugar, and simmer until the sauce reduces and coats the chicken, about 10 minutes.",
+        "Serve hot over steamed rice."
+      ]
+    },
+    {
+      "id": "pork-sinigang",
+      "name": "Pork Sinigang",
+      "localName": "Sinigang na Baboy",
+      "cuisine": "filipino",
+      "category": "soup",
+      "difficulty": "easy",
+      "emoji": "🍲",
+      "description": "A sour and savory tamarind soup loaded with tender pork and vegetables. Comforting, bright, and perfect on a rainy day.",
+      "prepMinutes": 20,
+      "cookMinutes": 60,
+      "servings": 6,
+      "tags": [
+        "soup",
+        "sour",
+        "comfort food",
+        "tamarind"
+      ],
+      "ingredients": [
+        {
+          "name": "Pork belly or ribs",
+          "quantity": "1 kg",
+          "note": "cut into chunks"
+        },
+        {
+          "name": "Tamarind soup base",
+          "quantity": "1 packet",
+          "note": "or 200 g fresh tamarind"
+        },
+        {
+          "name": "Water",
+          "quantity": "2 liters"
+        },
+        {
+          "name": "Tomatoes",
+          "quantity": "2",
+          "note": "quartered"
+        },
+        {
+          "name": "Onion",
+          "quantity": "1",
+          "note": "quartered"
+        },
+        {
+          "name": "Radish (labanos)",
+          "quantity": "1",
+          "note": "sliced"
+        },
+        {
+          "name": "String beans",
+          "quantity": "1 bunch",
+          "note": "cut into 2-inch pieces"
+        },
+        {
+          "name": "Eggplant",
+          "quantity": "1",
+          "note": "sliced"
+        },
+        {
+          "name": "Kangkong (water spinach)",
+          "quantity": "1 bunch"
+        },
+        {
+          "name": "Long green chili",
+          "quantity": "2"
+        },
+        {
+          "name": "Fish sauce",
+          "quantity": "2 tbsp"
+        }
+      ],
+      "steps": [
+        "Place pork, water, onion, and tomatoes in a large pot. Bring to a boil, skimming off any scum.",
+        "Reduce heat and simmer for 45 minutes until the pork is tender.",
+        "Add radish and cook for 5 minutes, then add string beans and eggplant and cook 5 minutes more.",
+        "Stir in the tamarind base and fish sauce. Taste and adjust sourness and salt.",
+        "Add the chili and kangkong, cook for 1 minute, then turn off the heat.",
+        "Serve steaming hot with rice and extra fish sauce on the side."
+      ]
+    },
+    {
+      "id": "kare-kare",
+      "name": "Kare-Kare",
+      "localName": "Kare-Kare",
+      "cuisine": "filipino",
+      "category": "main",
+      "difficulty": "hard",
+      "emoji": "🥜",
+      "description": "A rich oxtail stew in a velvety peanut sauce, served with sauteed shrimp paste. A celebration dish that rewards patience.",
+      "prepMinutes": 30,
+      "cookMinutes": 180,
+      "servings": 6,
+      "tags": [
+        "stew",
+        "peanut",
+        "oxtail",
+        "fiesta"
+      ],
+      "ingredients": [
+        {
+          "name": "Oxtail",
+          "quantity": "1.5 kg",
+          "note": "cut into 2-inch pieces"
+        },
+        {
+          "name": "Water",
+          "quantity": "3 liters"
+        },
+        {
+          "name": "Peanut butter",
+          "quantity": "1 cup",
+          "note": "unsweetened"
+        },
+        {
+          "name": "Toasted ground rice",
+          "quantity": "1/4 cup"
+        },
+        {
+          "name": "Annatto (atsuete) powder",
+          "quantity": "1 tbsp"
+        },
+        {
+          "name": "Onion",
+          "quantity": "1",
+          "note": "chopped"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "6 cloves",
+          "note": "minced"
+        },
+        {
+          "name": "Banana blossom",
+          "quantity": "1",
+          "note": "sliced"
+        },
+        {
+          "name": "Eggplant",
+          "quantity": "2",
+          "note": "sliced"
+        },
+        {
+          "name": "String beans",
+          "quantity": "1 bunch"
+        },
+        {
+          "name": "Bok choy (pechay)",
+          "quantity": "1 bunch"
+        },
+        {
+          "name": "Bagoong (shrimp paste)",
+          "quantity": "1/2 cup",
+          "note": "for serving"
+        }
+      ],
+      "steps": [
+        "Simmer the oxtail in water for 2.5 to 3 hours until fork-tender. Reserve 4 cups of the broth.",
+        "In a separate pot, saute garlic and onion in oil. Add annatto powder and stir until the oil turns orange.",
+        "Pour in the reserved broth. Whisk in peanut butter and toasted ground rice until smooth.",
+        "Add the oxtail and simmer for 15 minutes until the sauce thickens.",
+        "Add banana blossom and eggplant, cook 5 minutes, then add string beans and bok choy for 3 minutes.",
+        "Serve with sauteed bagoong on the side and plenty of rice."
+      ]
+    },
+    {
+      "id": "lechon-kawali",
+      "name": "Lechon Kawali",
+      "localName": "Lechon Kawali",
+      "cuisine": "filipino",
+      "category": "main",
+      "difficulty": "medium",
+      "emoji": "🥓",
+      "description": "Crispy deep-fried pork belly with crackling skin and juicy meat. Served with a tangy liver sauce or spiced vinegar.",
+      "prepMinutes": 15,
+      "cookMinutes": 90,
+      "servings": 6,
+      "tags": [
+        "crispy",
+        "pork",
+        "fried",
+        "party"
+      ],
+      "ingredients": [
+        {
+          "name": "Pork belly",
+          "quantity": "1.5 kg",
+          "note": "whole slab"
+        },
+        {
+          "name": "Water",
+          "quantity": "2 liters"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "1 head",
+          "note": "smashed"
+        },
+        {
+          "name": "Bay leaves",
+          "quantity": "3"
+        },
+        {
+          "name": "Whole peppercorns",
+          "quantity": "1 tbsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": "2 tbsp"
+        },
+        {
+          "name": "Cooking oil",
+          "quantity": "4 cups",
+          "note": "for deep frying"
+        }
+      ],
+      "steps": [
+        "Place pork belly, water, garlic, bay leaves, peppercorns, and salt in a pot. Boil then simmer for 45 minutes.",
+        "Remove the pork and pat completely dry. Refrigerate uncovered for at least 1 hour so the skin dries out.",
+        "Heat oil to 180°C in a deep pot. Carefully lower in the pork, skin-side down. Cover loosely as it will spatter.",
+        "Fry for 15 to 20 minutes until the skin is blistered and golden, turning once.",
+        "Rest for 10 minutes, then chop into bite-size pieces.",
+        "Serve with spiced vinegar or lechon sauce."
+      ]
+    },
+    {
+      "id": "pancit-bihon",
+      "name": "Pancit Bihon",
+      "localName": "Pancit Bihon Guisado",
+      "cuisine": "filipino",
+      "category": "noodles",
+      "difficulty": "easy",
+      "emoji": "🍜",
+      "description": "Thin rice noodles stir-fried with chicken, shrimp, and crisp vegetables. Served at birthdays for long life.",
+      "prepMinutes": 20,
+      "cookMinutes": 20,
+      "servings": 6,
+      "tags": [
+        "noodles",
+        "stir-fry",
+        "birthday",
+        "quick"
+      ],
+      "ingredients": [
+        {
+          "name": "Rice vermicelli (bihon)",
+          "quantity": "400 g"
+        },
+        {
+          "name": "Chicken breast",
+          "quantity": "250 g",
+          "note": "sliced thin"
+        },
+        {
+          "name": "Shrimp",
+          "quantity": "200 g",
+          "note": "peeled"
+        },
+        {
+          "name": "Chicken broth",
+          "quantity": "3 cups"
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": "1/4 cup"
+        },
+        {
+          "name": "Cabbage",
+          "quantity": "1/4 head",
+          "note": "shredded"
+        },
+        {
+          "name": "Carrot",
+          "quantity": "1",
+          "note": "julienned"
+        },
+        {
+          "name": "Celery",
+          "quantity": "2 stalks",
+          "note": "sliced"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "4 cloves",
+          "note": "minced"
+        },
+        {
+          "name": "Onion",
+          "quantity": "1",
+          "note": "sliced"
+        },
+        {
+          "name": "Calamansi",
+          "quantity": "4",
+          "note": "for serving"
+        }
+      ],
+      "steps": [
+        "Soak the bihon in warm water for 10 minutes, then drain.",
+        "Saute garlic and onion in oil until fragrant. Add chicken and cook until no longer pink.",
+        "Add shrimp and cook for 2 minutes. Pour in broth and soy sauce and bring to a boil.",
+        "Add carrot, celery, and cabbage. Cook for 2 minutes.",
+        "Add the noodles and toss until the liquid is absorbed and the noodles are tender.",
+        "Serve with calamansi halves to squeeze over."
+      ]
+    },
+    {
+      "id": "lumpiang-shanghai",
+      "name": "Lumpiang Shanghai",
+      "localName": "Lumpiang Shanghai",
+      "cuisine": "filipino",
+      "category": "appetizer",
+      "difficulty": "medium",
+      "emoji": "🥟",
+      "description": "Golden, crunchy spring rolls filled with seasoned ground pork. Nobody can eat just one.",
+      "prepMinutes": 40,
+      "cookMinutes": 20,
+      "servings": 8,
+      "tags": [
+        "fried",
+        "finger food",
+        "party",
+        "pork"
+      ],
+      "ingredients": [
+        {
+          "name": "Ground pork",
+          "quantity": "500 g"
+        },
+        {
+          "name": "Carrot",
+          "quantity": "1",
+          "note": "finely grated"
+        },
+        {
+          "name": "Onion",
+          "quantity": "1",
+          "note": "minced"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "4 cloves",
+          "note": "minced"
+        },
+        {
+          "name": "Egg",
+          "quantity": "1"
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": "2 tbsp"
+        },
+        {
+          "name": "Salt and pepper",
+          "quantity": "to taste"
+        },
+        {
+          "name": "Spring roll wrappers",
+          "quantity": "30",
+          "note": "thin lumpia wrappers"
+        },
+        {
+          "name": "Cooking oil",
+          "quantity": "3 cups",
+          "note": "for frying"
+        },
+        {
+          "name": "Sweet chili sauce",
+          "quantity": "for dipping"
+        }
+      ],
+      "steps": [
+        "Mix pork, carrot, onion, garlic, egg, soy sauce, salt, and pepper in a bowl.",
+        "Place a thin line of filling along one edge of a wrapper. Roll tightly, folding in the sides, and seal with water.",
+        "Repeat with the remaining filling. Cut each roll in half if desired.",
+        "Heat oil to 175°C. Fry in batches for 4 to 5 minutes until golden and cooked through.",
+        "Drain on paper towels and serve hot with sweet chili sauce."
+      ]
+    },
+    {
+      "id": "halo-halo",
+      "name": "Halo-Halo",
+      "localName": "Halo-Halo",
+      "cuisine": "filipino",
+      "category": "dessert",
+      "difficulty": "easy",
+      "emoji": "🍧",
+      "description": "The ultimate Filipino shaved-ice dessert. Layers of sweet beans, jellies, fruit, and leche flan topped with ube ice cream.",
+      "prepMinutes": 20,
+      "cookMinutes": 0,
+      "servings": 2,
+      "tags": [
+        "dessert",
+        "no-cook",
+        "summer",
+        "ube"
+      ],
+      "ingredients": [
+        {
+          "name": "Shaved ice",
+          "quantity": "4 cups"
+        },
+        {
+          "name": "Evaporated milk",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Sweetened red beans",
+          "quantity": "4 tbsp"
+        },
+        {
+          "name": "Sweetened white beans",
+          "quantity": "4 tbsp"
+        },
+        {
+          "name": "Nata de coco",
+          "quantity": "4 tbsp"
+        },
+        {
+          "name": "Macapuno strings",
+          "quantity": "4 tbsp"
+        },
+        {
+          "name": "Sweetened jackfruit",
+          "quantity": "4 tbsp",
+          "note": "sliced"
+        },
+        {
+          "name": "Saba banana in syrup",
+          "quantity": "4 tbsp"
+        },
+        {
+          "name": "Leche flan",
+          "quantity": "2 slices"
+        },
+        {
+          "name": "Ube halaya",
+          "quantity": "2 tbsp"
+        },
+        {
+          "name": "Ube ice cream",
+          "quantity": "2 scoops"
+        },
+        {
+          "name": "Pinipig (toasted rice flakes)",
+          "quantity": "2 tbsp"
+        }
+      ],
+      "steps": [
+        "Divide the beans, nata de coco, macapuno, jackfruit, and banana between two tall glasses.",
+        "Pack shaved ice on top, filling the glass almost to the brim.",
+        "Pour evaporated milk over the ice.",
+        "Top with a slice of leche flan, a spoon of ube halaya, and a scoop of ube ice cream.",
+        "Sprinkle with pinipig. Mix everything together (halo means mix) before eating."
+      ]
+    },
+    {
+      "id": "bibingka",
+      "name": "Bibingka",
+      "localName": "Bibingka",
+      "cuisine": "filipino",
+      "category": "breakfast",
+      "difficulty": "medium",
+      "emoji": "🥞",
+      "description": "A soft, slightly chewy rice cake baked in banana leaves, topped with salted egg and cheese. A Christmas morning tradition.",
+      "prepMinutes": 15,
+      "cookMinutes": 25,
+      "servings": 6,
+      "tags": [
+        "christmas",
+        "rice cake",
+        "baked",
+        "breakfast"
+      ],
+      "ingredients": [
+        {
+          "name": "Rice flour",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "All-purpose flour",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "Sugar",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "Baking powder",
+          "quantity": "1 tbsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": "1/4 tsp"
+        },
+        {
+          "name": "Coconut milk",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "3"
+        },
+        {
+          "name": "Butter",
+          "quantity": "4 tbsp",
+          "note": "melted, plus more for brushing"
+        },
+        {
+          "name": "Banana leaves",
+          "quantity": "2",
+          "note": "wilted over a flame"
+        },
+        {
+          "name": "Salted egg",
+          "quantity": "1",
+          "note": "sliced"
+        },
+        {
+          "name": "Grated cheese",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "Grated coconut",
+          "quantity": "1/2 cup",
+          "note": "for serving"
+        }
+      ],
+      "steps": [
+        "Preheat the oven to 190°C. Line a round pan with banana leaves.",
+        "Whisk rice flour, flour, sugar, baking powder, and salt. Add coconut milk, eggs, and melted butter and mix until smooth.",
+        "Pour the batter into the pan. Bake for 15 minutes.",
+        "Top with salted egg and cheese, brush with butter, and bake 10 more minutes until golden.",
+        "Serve warm with grated coconut and extra butter."
+      ]
+    },
+    {
+      "id": "beef-caldereta",
+      "name": "Beef Caldereta",
+      "localName": "Kalderetang Baka",
+      "cuisine": "filipino",
+      "category": "main",
+      "difficulty": "medium",
+      "emoji": "🥘",
+      "description": "A hearty Spanish-influenced beef stew in a tomato and liver-spread sauce with potatoes, carrots, and bell peppers.",
+      "prepMinutes": 20,
+      "cookMinutes": 120,
+      "servings": 6,
+      "tags": [
+        "stew",
+        "beef",
+        "fiesta",
+        "spicy"
+      ],
+      "ingredients": [
+        {
+          "name": "Beef chuck",
+          "quantity": "1 kg",
+          "note": "cubed"
+        },
+        {
+          "name": "Tomato sauce",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Liver spread",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "Beef broth",
+          "quantity": "3 cups"
+        },
+        {
+          "name": "Potatoes",
+          "quantity": "2",
+          "note": "cubed"
+        },
+        {
+          "name": "Carrots",
+          "quantity": "2",
+          "note": "sliced"
+        },
+        {
+          "name": "Red bell pepper",
+          "quantity": "1",
+          "note": "sliced"
+        },
+        {
+          "name": "Green olives",
+          "quantity": "1/4 cup"
+        },
+        {
+          "name": "Onion",
+          "quantity": "1",
+          "note": "chopped"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "5 cloves",
+          "note": "minced"
+        },
+        {
+          "name": "Bird's eye chili",
+          "quantity": "2",
+          "note": "optional"
+        },
+        {
+          "name": "Grated cheese",
+          "quantity": "1/4 cup"
+        }
+      ],
+      "steps": [
+        "Brown the beef in oil in batches. Set aside.",
+        "Saute garlic and onion until soft. Return the beef, add tomato sauce and broth, and simmer covered for 1.5 hours until tender.",
+        "Stir in liver spread and chili. Add potatoes and carrots and cook 15 minutes.",
+        "Add bell pepper, olives, and cheese. Simmer 5 minutes until the sauce is thick.",
+        "Season with salt and pepper and serve with rice."
+      ]
+    },
+    {
+      "id": "garlic-fried-rice",
+      "name": "Garlic Fried Rice",
+      "localName": "Sinangag",
+      "cuisine": "filipino",
+      "category": "side",
+      "difficulty": "easy",
+      "emoji": "🍚",
+      "description": "Day-old rice fried with lots of toasted garlic. The backbone of every Filipino breakfast.",
+      "prepMinutes": 5,
+      "cookMinutes": 10,
+      "servings": 4,
+      "tags": [
+        "breakfast",
+        "rice",
+        "quick",
+        "vegetarian"
+      ],
+      "ingredients": [
+        {
+          "name": "Cooked rice",
+          "quantity": "4 cups",
+          "note": "day-old, cold"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "1 head",
+          "note": "minced"
+        },
+        {
+          "name": "Cooking oil",
+          "quantity": "3 tbsp"
+        },
+        {
+          "name": "Salt",
+          "quantity": "1 tsp"
+        },
+        {
+          "name": "Spring onion",
+          "quantity": "2 stalks",
+          "note": "sliced"
+        }
+      ],
+      "steps": [
+        "Heat oil in a wok over medium heat. Fry the garlic slowly until golden and crisp. Remove half for topping.",
+        "Turn up the heat, add the rice, and break up any clumps.",
+        "Season with salt and toss for 3 to 4 minutes until the rice is heated through and lightly toasted.",
+        "Top with reserved garlic and spring onion."
+      ]
+    },
+    {
+      "id": "chicken-tikka-masala",
+      "name": "Chicken Tikka Masala",
+      "localName": "Chicken Tikka Masala",
+      "cuisine": "indian",
+      "category": "main",
+      "difficulty": "medium",
+      "emoji": "🍛",
+      "description": "Charred yogurt-marinated chicken folded into a creamy spiced tomato sauce.",
+      "prepMinutes": 30,
+      "cookMinutes": 40,
+      "servings": 4,
+      "tags": [
+        "curry",
+        "creamy",
+        "spiced",
+        "weeknight"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken thighs",
+          "quantity": "700 g",
+          "note": "boneless, cubed"
+        },
+        {
+          "name": "Plain yogurt",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Garam masala",
+          "quantity": "2 tbsp"
+        },
+        {
+          "name": "Ground cumin",
+          "quantity": "1 tsp"
+        },
+        {
+          "name": "Turmeric",
+          "quantity": "1 tsp"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "4 cloves",
+          "note": "minced"
+        },
+        {
+          "name": "Ginger",
+          "quantity": "1 tbsp",
+          "note": "grated"
+        },
+        {
+          "name": "Crushed tomatoes",
+          "quantity": "400 g"
+        },
+        {
+          "name": "Heavy cream",
+          "quantity": "3/4 cup"
+        },
+        {
+          "name": "Onion",
+          "quantity": "1",
+          "note": "chopped"
+        },
+        {
+          "name": "Butter",
+          "quantity": "2 tbsp"
+        },
+        {
+          "name": "Fresh cilantro",
+          "quantity": "for garnish"
+        }
+      ],
+      "steps": [
+        "Marinate chicken in yogurt, half the garam masala, cumin, turmeric, garlic, and ginger for at least 1 hour.",
+        "Broil or pan-sear the chicken over high heat until charred at the edges. Set aside.",
+        "Melt butter and cook the onion until soft. Add remaining garam masala and cook 1 minute.",
+        "Add crushed tomatoes and simmer 15 minutes. Blend until smooth if desired.",
+        "Stir in cream and the chicken. Simmer 10 minutes.",
+        "Garnish with cilantro and serve with basmati rice or naan."
+      ]
+    },
+    {
+      "id": "pad-thai",
+      "name": "Pad Thai",
+      "localName": "ผัดไทย",
+      "cuisine": "thai",
+      "category": "noodles",
+      "difficulty": "medium",
+      "emoji": "🍤",
+      "description": "Thailand's beloved stir-fried rice noodles with shrimp, egg, tofu, and a sweet-sour tamarind sauce.",
+      "prepMinutes": 25,
+      "cookMinutes": 15,
+      "servings": 2,
+      "tags": [
+        "noodles",
+        "stir-fry",
+        "street food",
+        "tamarind"
+      ],
+      "ingredients": [
+        {
+          "name": "Flat rice noodles",
+          "quantity": "200 g"
+        },
+        {
+          "name": "Shrimp",
+          "quantity": "200 g",
+          "note": "peeled"
+        },
+        {
+          "name": "Firm tofu",
+          "quantity": "100 g",
+          "note": "cubed"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "2"
+        },
+        {
+          "name": "Tamarind paste",
+          "quantity": "3 tbsp"
+        },
+        {
+          "name": "Fish sauce",
+          "quantity": "2 tbsp"
+        },
+        {
+          "name": "Palm sugar",
+          "quantity": "2 tbsp"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "3 cloves",
+          "note": "minced"
+        },
+        {
+          "name": "Bean sprouts",
+          "quantity": "1 cup"
+        },
+        {
+          "name": "Garlic chives",
+          "quantity": "1/2 cup",
+          "note": "cut into 2-inch pieces"
+        },
+        {
+          "name": "Roasted peanuts",
+          "quantity": "1/4 cup",
+          "note": "crushed"
+        },
+        {
+          "name": "Lime",
+          "quantity": "1",
+          "note": "wedged"
+        }
+      ],
+      "steps": [
+        "Soak noodles in warm water for 20 minutes until pliable, then drain.",
+        "Mix tamarind paste, fish sauce, and palm sugar to make the sauce.",
+        "Stir-fry garlic and tofu in a hot wok. Add shrimp and cook until pink.",
+        "Push everything aside, crack in the eggs, and scramble.",
+        "Add noodles and sauce. Toss over high heat for 2 to 3 minutes until the noodles absorb the sauce.",
+        "Toss in bean sprouts and chives. Serve with peanuts and lime."
+      ]
+    },
+    {
+      "id": "spaghetti-carbonara",
+      "name": "Spaghetti Carbonara",
+      "localName": "Spaghetti alla Carbonara",
+      "cuisine": "italian",
+      "category": "noodles",
+      "difficulty": "medium",
+      "emoji": "🍝",
+      "description": "Rome's silky pasta of eggs, pecorino, guanciale, and black pepper. No cream needed.",
+      "prepMinutes": 10,
+      "cookMinutes": 20,
+      "servings": 4,
+      "tags": [
+        "pasta",
+        "quick",
+        "classic",
+        "pork"
+      ],
+      "ingredients": [
+        {
+          "name": "Spaghetti",
+          "quantity": "400 g"
+        },
+        {
+          "name": "Guanciale",
+          "quantity": "150 g",
+          "note": "or pancetta, diced"
+        },
+        {
+          "name": "Egg yolks",
+          "quantity": "4"
+        },
+        {
+          "name": "Whole egg",
+          "quantity": "1"
+        },
+        {
+          "name": "Pecorino Romano",
+          "quantity": "100 g",
+          "note": "finely grated"
+        },
+        {
+          "name": "Black pepper",
+          "quantity": "2 tsp",
+          "note": "freshly cracked"
+        },
+        {
+          "name": "Salt",
+          "quantity": "for pasta water"
+        }
+      ],
+      "steps": [
+        "Bring a large pot of salted water to a boil and cook the spaghetti until al dente.",
+        "Meanwhile, render the guanciale in a wide pan over medium heat until crisp. Turn off the heat.",
+        "Whisk yolks, egg, pecorino, and pepper in a bowl.",
+        "Drain pasta, reserving 1 cup of water. Add pasta to the guanciale pan and toss.",
+        "Off the heat, pour in the egg mixture and toss quickly, adding splashes of pasta water until creamy.",
+        "Serve immediately with extra pecorino and pepper."
+      ]
+    },
+    {
+      "id": "tacos-al-pastor",
+      "name": "Tacos al Pastor",
+      "localName": "Tacos al Pastor",
+      "cuisine": "mexican",
+      "category": "main",
+      "difficulty": "medium",
+      "emoji": "🌮",
+      "description": "Marinated pork with achiote and pineapple, charred and tucked into warm corn tortillas.",
+      "prepMinutes": 30,
+      "cookMinutes": 25,
+      "servings": 4,
+      "tags": [
+        "tacos",
+        "street food",
+        "pork",
+        "grilled"
+      ],
+      "ingredients": [
+        {
+          "name": "Pork shoulder",
+          "quantity": "800 g",
+          "note": "thinly sliced"
+        },
+        {
+          "name": "Achiote paste",
+          "quantity": "3 tbsp"
+        },
+        {
+          "name": "Dried guajillo chilies",
+          "quantity": "3",
+          "note": "soaked and seeded"
+        },
+        {
+          "name": "Pineapple juice",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "White vinegar",
+          "quantity": "2 tbsp"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "4 cloves"
+        },
+        {
+          "name": "Ground cumin",
+          "quantity": "1 tsp"
+        },
+        {
+          "name": "Dried oregano",
+          "quantity": "1 tsp"
+        },
+        {
+          "name": "Fresh pineapple",
+          "quantity": "1 cup",
+          "note": "diced"
+        },
+        {
+          "name": "Corn tortillas",
+          "quantity": "12"
+        },
+        {
+          "name": "White onion",
+          "quantity": "1/2",
+          "note": "finely chopped"
+        },
+        {
+          "name": "Cilantro",
+          "quantity": "1/2 cup",
+          "note": "chopped"
+        },
+        {
+          "name": "Limes",
+          "quantity": "2"
+        }
+      ],
+      "steps": [
+        "Blend achiote, chilies, pineapple juice, vinegar, garlic, cumin, and oregano into a marinade.",
+        "Coat the pork and marinate for at least 2 hours, ideally overnight.",
+        "Cook the pork on a very hot grill or skillet until charred at the edges. Chop into small pieces.",
+        "Char the pineapple in the same pan.",
+        "Warm the tortillas. Fill with pork and pineapple, top with onion and cilantro, and squeeze lime over."
+      ]
+    },
+    {
+      "id": "shoyu-ramen",
+      "name": "Shoyu Ramen",
+      "localName": "醤油ラーメン",
+      "cuisine": "japanese",
+      "category": "soup",
+      "difficulty": "hard",
+      "emoji": "🍜",
+      "description": "Clear soy-seasoned chicken broth with springy noodles, soft-boiled egg, and chashu pork.",
+      "prepMinutes": 30,
+      "cookMinutes": 150,
+      "servings": 4,
+      "tags": [
+        "noodles",
+        "soup",
+        "umami",
+        "weekend project"
+      ],
+      "ingredients": [
+        {
+          "name": "Chicken carcass or wings",
+          "quantity": "1 kg"
+        },
+        {
+          "name": "Water",
+          "quantity": "3 liters"
+        },
+        {
+          "name": "Kombu",
+          "quantity": "1 piece",
+          "note": "10 cm"
+        },
+        {
+          "name": "Ginger",
+          "quantity": "1 piece",
+          "note": "sliced"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "4 cloves"
+        },
+        {
+          "name": "Soy sauce",
+          "quantity": "1/2 cup"
+        },
+        {
+          "name": "Mirin",
+          "quantity": "2 tbsp"
+        },
+        {
+          "name": "Ramen noodles",
+          "quantity": "4 portions"
+        },
+        {
+          "name": "Eggs",
+          "quantity": "4"
+        },
+        {
+          "name": "Chashu pork",
+          "quantity": "8 slices"
+        },
+        {
+          "name": "Spring onion",
+          "quantity": "4 stalks",
+          "note": "sliced"
+        },
+        {
+          "name": "Nori",
+          "quantity": "4 sheets"
+        },
+        {
+          "name": "Menma (bamboo shoots)",
+          "quantity": "1/2 cup"
+        }
+      ],
+      "steps": [
+        "Simmer chicken, water, ginger, and garlic gently for 2 hours. Add kombu for the last 30 minutes. Strain.",
+        "Soft-boil the eggs for 6.5 minutes, chill in ice water, peel, and marinate in a little soy and mirin.",
+        "Make the tare by warming soy sauce and mirin together.",
+        "Cook noodles according to the package and drain well.",
+        "Put 2 tablespoons of tare in each bowl, ladle in hot broth, and add noodles.",
+        "Top with chashu, halved egg, menma, spring onion, and nori."
+      ]
+    },
+    {
+      "id": "kimchi-jjigae",
+      "name": "Kimchi Stew",
+      "localName": "김치찌개",
+      "cuisine": "korean",
+      "category": "soup",
+      "difficulty": "easy",
+      "emoji": "🌶️",
+      "description": "A bubbling, spicy stew of aged kimchi, pork belly, and tofu. Fast, fiery, and deeply comforting.",
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "servings": 3,
+      "tags": [
+        "spicy",
+        "soup",
+        "quick",
+        "fermented"
+      ],
+      "ingredients": [
+        {
+          "name": "Aged kimchi",
+          "quantity": "2 cups",
+          "note": "chopped, with juice"
+        },
+        {
+          "name": "Pork belly",
+          "quantity": "200 g",
+          "note": "sliced"
+        },
+        {
+          "name": "Firm tofu",
+          "quantity": "1 block",
+          "note": "sliced"
+        },
+        {
+          "name": "Gochugaru",
+          "quantity": "1 tbsp"
+        },
+        {
+          "name": "Gochujang",
+          "quantity": "1 tbsp"
+        },
+        {
+          "name": "Garlic",
+          "quantity": "3 cloves",
+          "note": "minced"
+        },
+        {
+          "name": "Onion",
+          "quantity": "1/2",
+          "note": "sliced"
+        },
+        {
+          "name": "Water or anchovy stock",
+          "quantity": "2.5 cups"
+        },
+        {
+          "name": "Spring onion",
+          "quantity": "2 stalks"
+        },
+        {
+          "name": "Sesame oil",
+          "quantity": "1 tsp"
+        }
+      ],
+      "steps": [
+        "Saute pork belly in sesame oil until the fat renders.",
+        "Add kimchi, garlic, gochugaru, and gochujang. Stir-fry for 3 minutes.",
+        "Pour in stock and kimchi juice. Boil then simmer for 15 minutes.",
+        "Add onion and tofu. Simmer 5 minutes more.",
+        "Top with spring onion and serve bubbling with rice."
+      ]
+    }
+  ]
+}
